@@ -4,9 +4,9 @@ from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
-SIMILAR_USER="pickbysurya_"
-EMAIL="sangusaishanmukha@gmail.com"
-PASSWORD="shanu@2003"
+SIMILAR_USER="SPECIFED ACCOUNT"
+EMAIL="YOUR DETAILS"
+PASSWORD="YOUR PASSWORD"
 
 class InstaFollower():
     def __init__(self):
